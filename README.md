@@ -11,6 +11,6 @@ $ pip install -r requirements.txt
 - Click 'Random Article' to get a random article's data.
 - Click 'Open Article Link' to open the article's link in your web browser.
 # Preview
-<img src="Preview Images/preview.png">
-<img src="Preview Images/preview2.png">
-<img src="Preview Images/preview3.png">
+<img src="Preview/preview.png">
+<img src="Preview/preview2.png">
+<img src="Preview/preview3.png">
